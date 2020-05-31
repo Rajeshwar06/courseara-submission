@@ -23,12 +23,9 @@ h2{
   font-weight: bold;
   size: 1.5em;
 }
-#smb{
-  color: red;
-  background-color: white;
-}
 
-.col-md-4 div{
+
+.d div{
     width: 100%;
     box-shadow:  5px 10px black;
     border: solid black 2px;
