@@ -1,0 +1,51 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-color: #F5DEB3;
+}
+#header-nav{
+  background-color: blue;
+  position: relative;
+}
+
+h1{
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 2px 2px #ff0000;
+  color: black;
+  left: 150px;
+  
+    
+}
+h2{
+  
+  font-weight: bold;
+  size: 1.5em;
+}
+#smb{
+  color: red;
+  background-color: white;
+}
+
+.col-md-4 div{
+    width: 100%;
+    box-shadow:  5px 10px black;
+    border: solid black 2px;
+  margin: 4px;
+  background-color: greenyellow;
+
+}
+p{
+  margin: 5px;
+  text-align: center;
+  size: 1.3em;
+
+}
+
+h3{
+  text-transform: uppercase;
+  color: black;
+
+
+}
